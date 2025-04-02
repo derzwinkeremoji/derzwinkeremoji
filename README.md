@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on realeasing my first open-source project<br>🌱 I’m currently learning Laravel with Vue.js<br>💬 Ask me about php. I love it<br>⚡ Fun fact: I don't like WordPress
+🔭 I’m currently working on releasing my first open-source project<br>🌱 I’m currently learning Laravel with Vue.js<br>💬 Ask me about php. I love it<br>⚡ Fun fact: I don't like WordPress
 
 
 ## 🌐 Socials:
